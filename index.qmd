@@ -1,0 +1,51 @@
+---
+title: Evolución de la brecha de género en el SNII
+format:
+  closeread-html:
+    code-fold: true
+    cr-section:
+      layout: overlay-left
+
+
+---
+
+
+
+
+## Sistema Nacional de Investigadoras e Investigadores (SNII)
+
+El **SNII** es un programa con el propósito de reconocer y fortalecer la labor de quienes producen conocimiento científico y desarrollan tecnología en México.
+Creado por Acuerdo Presidencial, publicado en el Diario Oficial de la Federación el 26 de julio de 1984
+
+
+A través de un  proceso de evaluación por pares, el **SNII** otorga la distinción de **investigadora o investigador nacional**, un reconocimiento que simboliza la calidad y prestigio de sus contribuciones en diversas disciplinas del conocimiento. 
+
+Existen los niveles:
+
+- Nivel candidatura
+- Nivel 1
+- Nivel 2
+- Nivel 3
+- Emerit\@
+
+
+
+::::{.cr-section}
+El SNII ha ido creciendo, desde el 2000 al 2023. En los últimos 23 años pasó de casi 7 mil a más de 40 mil personas pertenecientes. @cr-historico
+
+:::{#cr-historico}
+![](historico.png)
+:::
+
+
+
+
+
+::: 
+
+
+<!-- Desde su creación, el SNII ha desempeñado un papel fundamental en la consolidación de la investigación científica y tecnológica en el país. Su estructura permite integrar a especialistas de todas las áreas del conocimiento, promoviendo la excelencia académica y la formación de nuevas generaciones de investigadoras e investigadores. Este sistema, además, contribuye al desarrollo de grupos de investigación de alto nivel en todo el territorio nacional, fortaleciendo así la capacidad científica y tecnológica de México.  
+
+Uno de los aspectos clave en la evolución del SNII ha sido su composición en términos de género. A lo largo de más de dos décadas, el número de mujeres y hombres dentro del sistema ha reflejado tanto avances en la equidad de género como persistentes desafíos en la representación femenina dentro de la ciencia y la tecnología. En este análisis, exploraremos los datos del SNII desde el año **2000 hasta 2023**, evaluando cómo ha evolucionado la proporción de mujeres y hombres en el sistema, así como las tendencias y factores que han influido en su distribución a lo largo del tiempo.  
+
+Este estudio nos permitirá comprender mejor la dinámica de participación de género en la investigación científica en México y reflexionar sobre los retos y oportunidades para lograr una mayor equidad en el ámbito académico y tecnológico. -->
