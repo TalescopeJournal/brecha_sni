@@ -1,0 +1,31 @@
+#  @file     enerdata.mplstyle
+#  @author   Guillermo Barrios <gbv@ier.unam.mx>
+#  
+#  This mpl style is intended to be used in for the dataviz project at IER-UNAM
+
+figure.figsize 		: 10.00, 4.00
+
+axes.spines.bottom  : True
+axes.spines.left    : False
+axes.spines.right   : False
+axes.spines.top     : False
+axes.prop_cycle		: cycler('color', [ 'grey', 'grey', 'grey', 'grey', 'grey']) 
+axes.labelcolor		: grey
+axes.labelsize		: 14   # fontsize of the axes title
+xtick.labelsize		: 14 # fontsize of the tick labels
+ytick.labelsize		: 14 # fontsize of the tick labels
+legend.fontsize		: 16
+
+
+lines.linewidth		: 4
+lines.markersize	: 10            # markersize, in points
+
+font.size		: 14
+#font.family		: sans-serif
+#font.serif		: Tahoma
+
+xtick.color		: grey
+ytick.color		: grey
+text.color		: grey
+
+savefig.transparent : True    # setting that controls whether figures are saved with a
